@@ -1,0 +1,162 @@
+body {
+    background-color: rgb(197, 193, 193);
+    justify-content: center;
+}
+.page {
+    background-color: white;
+    width: 70%;
+    height: 900px;
+    box-shadow: 3px 3px rgb(26, 0, 0);
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 5%;
+    color: white;
+    font-size: 20px;
+    /* background-image: url(./drexsoft.svg);
+    background-repeat: no-repeat;
+    background-size: 700px;
+    background-position: center; */
+}
+
+.advanced {
+    background-image:linear-gradient(to top, rgba(23, 23, 238, 0.993), rgb(64, 64, 253), rgb(28, 250, 250));
+}
+
+h1 {
+    background-image: linear-gradient(to right, blue, cyan, lime );
+    width: auto;
+}
+
+
+.head {
+    background-color: lime;
+    width: 90%;
+    height: 80px;
+    margin-bottom: 2%;
+    color: rgb(10, 6, 250);
+    font-weight: 450px;
+    font-size: 15px;
+    float: left;
+}
+.head a {
+    float: left;
+    margin: 1%;
+    text-decoration: none;
+    font-size: 15px;
+    position: sticky;
+}
+.head a:hover {
+    background-color: rgb(253, 194, 212);
+    width: auto;
+    padding: 0.01%;
+    height: 45%;
+    border-radius: 10%;
+    border: 1px rgb(255, 0, 34) solid;
+}
+.side {
+    background-color: gray;
+    float: right;
+    width: 10%;
+    height: 80px;
+    margin-bottom: 2%;
+}
+#switch {
+    width: 40%;
+    height: 100%;
+}
+/* form {
+    width: 100%;
+    box-sizing: border-box;
+    border: 2px solid #ccc;
+    border-radius: 4px;
+    font-size: 16px;
+    background-color: white;
+    /* background-image: url('./3917132.svg'); */
+    /* background-position: 10px 10px;  */
+    /* background-repeat: no-repeat; */
+    /* padding: 12px 20px 12px 40px;
+} */ 
+.circle {
+    background-image:linear-gradient(to right, blue, cyan, aqua, lime);
+    border-radius: 50%;
+    width: 5%;
+    height: 50px;
+    color: blue;
+    margin-top: 2%;
+    padding: 2%;
+    
+}
+
+.prolist {
+    width: 100%;
+    height: auto;
+}
+
+.pro {
+    width: 30%;
+    height: auto;
+    float: left;
+}
+
+.require {
+    width: 70%;
+    height: auto;
+    float: right;
+}
+.protit {
+    color: rgb(255, 30, 0);
+    font-size: 20pt;
+    font-family:'Times New Roman', Times, serif;
+    /* color-scheme: black, brown, darkgoldenrod, goldenrod, yellow; */
+}
+
+.protit:hover {
+    text-decoration: underline;
+    color: limegreen;
+}
+.mg {
+    font-size: 20pt;
+    
+
+}
+
+.emphasize:hover {
+    text-decoration: underline;
+    color: rgb(0, 153, 255);
+}
+
+.paragraph {
+    color: goldenrod;
+    font-size: 15pt;
+}
+hr {
+background-color: purple;
+height: 0.5%;
+}
+.bottom {
+background-color: rgb(19, 1, 48);
+width: 100%;
+height: 50px;
+}
+.icons {
+    width: 3%;
+    height: 35px;
+    float: right;
+    margin: 1%;
+}
+
+
+/* HOME PAGE FOR SEINDEX,html */
+
+.headtitle {
+    color: rgb(0, 26, 255);
+    font-size: 10pt;
+    font-family:'Times New Roman', Times, serif;
+    float: left;
+    
+}
+
+.headtitle:hover {
+    text-decoration: underline;
+    color: limegreen;
+}
